@@ -1,0 +1,12 @@
+notebooks/cache/
+notebooks/.ipynb_checkpoints/
+notebooks/.DS_Store
+.DS_Store
+data/raw/
+*.tif
+*.tiff
+venv/
+__pycache__/
+*.pyc
+.env
+media/
