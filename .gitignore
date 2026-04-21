@@ -10,3 +10,4 @@ __pycache__/
 *.pyc
 .env
 media/
+data/processed/nyc_tweets.csv
