@@ -11,3 +11,4 @@ __pycache__/
 .env
 media/
 data/processed/nyc_tweets.csv
+data/processed/nyc_tweets.csv
